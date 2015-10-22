@@ -1,0 +1,12 @@
+c:\users\jeska\documents\visual studio 2013\Projects\CDPSevenTask\CDPSevenTask\bin\Debug\CDPSevenTask.dll
+c:\users\jeska\documents\visual studio 2013\Projects\CDPSevenTask\CDPSevenTask\bin\Debug\CDPSevenTask.pdb
+c:\users\jeska\documents\visual studio 2013\Projects\CDPSevenTask\CDPSevenTask\bin\Debug\nunit.framework.dll
+c:\users\jeska\documents\visual studio 2013\Projects\CDPSevenTask\CDPSevenTask\bin\Debug\WebDriver.dll
+c:\users\jeska\documents\visual studio 2013\Projects\CDPSevenTask\CDPSevenTask\bin\Debug\WebDriver.Support.dll
+c:\users\jeska\documents\visual studio 2013\Projects\CDPSevenTask\CDPSevenTask\bin\Debug\nunit.framework.xml
+c:\users\jeska\documents\visual studio 2013\Projects\CDPSevenTask\CDPSevenTask\bin\Debug\WebDriver.xml
+c:\users\jeska\documents\visual studio 2013\Projects\CDPSevenTask\CDPSevenTask\bin\Debug\WebDriver.Support.xml
+c:\users\jeska\documents\visual studio 2013\Projects\CDPSevenTask\CDPSevenTask\obj\Debug\CDPSevenTask.csprojResolveAssemblyReference.cache
+c:\users\jeska\documents\visual studio 2013\Projects\CDPSevenTask\CDPSevenTask\obj\Debug\CDPSevenTask.dll
+c:\users\jeska\documents\visual studio 2013\Projects\CDPSevenTask\CDPSevenTask\obj\Debug\CDPSevenTask.pdb
+C:\Users\Jeska\Documents\Visual Studio 2013\Projects\CDPSevenTask\CDPSevenTask\bin\Debug\CDPSevenTask.dll.config
